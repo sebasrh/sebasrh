@@ -1,5 +1,5 @@
-### Hi there👋
-## I’m Sebastian
+## Hi there👋
+### I’m Sebastian
 Here are some facts about me:
 
 - 🔭 I’m currently studying at the Universidad del Valle
